@@ -38,4 +38,4 @@ THEN I find a concise, descriptive title
 * Added a showcase screenshot for preview of website
 
 # Website Screenshot and URL
-![Horiseon Website](assets\images\showcase-screenshot.jpg)
+![Horiseon Website](homework\semantic-html\assets\images\showcase-screenshot.jpg)
