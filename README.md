@@ -35,6 +35,7 @@ THEN I find a concise, descriptive title
 * DRY'd up the unnecessary repeats of code in css.style
 * Added alt tags to images in index.html
 * Fixed a bug where the button on "Search Engine Optimization" did not lead to corresponding article
+* Added a showcase screenshot for preview of website
 
 # Website Screenshot and URL
 ![Horiseon Website](.\assets\images\showcase-screenshot.jpg)
