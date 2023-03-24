@@ -39,6 +39,6 @@ THEN I find a concise, descriptive title
 
 # Website Screenshot and URL
 
-[https://jhelton404.github.io/semantic-html/](Go to Website!)
+[Go to Website!](https://jhelton404.github.io/semantic-html/)
 
 ![Horiseon Website](./assets/images/showcase-screenshot.jpg)
