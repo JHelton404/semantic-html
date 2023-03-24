@@ -38,4 +38,6 @@ THEN I find a concise, descriptive title
 * Added a showcase screenshot for preview of website
 
 # Website Screenshot and URL
+
+https://jhelton404.github.io/semantic-html/
 ![Horiseon Website](./assets/images/showcase-screenshot.jpg)
